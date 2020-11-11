@@ -4,5 +4,3 @@
 A first release of a simple program that helps you edit hoi4 states.
 
 ![Alt text](https://i.imgur.com/ECZsRLC.png "How it looks like right now")
-
-[Download here](<https://github.com/Djufkenzi/HOI4-State-editor/raw/master/latest/latest.msi>)
